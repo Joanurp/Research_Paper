@@ -1,5 +1,5 @@
 ---
-title: \textbf{Research_Paper}
+title: \textbf{Modelización de Volatilidad Financiera a traves de Procesos Estocásticos}
 subtitle: 
 author: "Jose Angel Urquijo Parra"
 date:
@@ -53,4 +53,6 @@ knitr::opts_chunk$set(message = FALSE)
 ```
 
 
+## Objetivo:
 
+Desarrollar un modelo estocástico para analizar y predecir la volatilidad de un activo financiero, utilizando técnicas avanzadas de procesos estocásticos y econometría.
