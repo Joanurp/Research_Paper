@@ -15,5 +15,4 @@ Para comenzar, necesitas tener R y RStudio instalados en tu sistema. Sigue estos
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/Joanurp/articulo-investigacion-estadistica.git
-   cd articulo-investigacion-estadistica
+   git clone https://github.com/Joanurp/Research_Paper.git
