@@ -1,19 +1,19 @@
-# 📊 Research Paper on Advanced Statistical Analysis
+# 📊 Artículo de Investigación en Análisis Estadístico Avanzado
 
-Welcome to the **Research Paper on Advanced Statistical Analysis** repository! This project encompasses detailed statistical analysis using R Markdown, focusing on advanced regression models and non-stationary stochastic processes.
+¡Bienvenido al repositorio del **Artículo de Investigación en Análisis Estadístico Avanzado**! Este proyecto abarca un análisis estadístico detallado utilizando R Markdown, centrado en modelos de regresión avanzados y procesos estocásticos no estacionarios.
 
-## 🌟 Features
+## 🌟 Características
 
-- Comprehensive analysis of complex statistical models
-- Utilization of advanced R packages for robust data analysis
-- High-quality LaTeX-rendered PDF documents
-- Fully reproducible research methodology
+- Análisis exhaustivo de modelos estadísticos complejos
+- Utilización de paquetes avanzados de R para un análisis de datos robusto
+- Documentos PDF de alta calidad renderizados con LaTeX
+- Metodología de investigación totalmente reproducible
 
-## 🛠 Installation
+## 🛠 Instalación
 
-To get started, you need to have R and RStudio installed on your system. Follow these steps to set up the project:
+Para comenzar, necesitas tener R y RStudio instalados en tu sistema. Sigue estos pasos para configurar el proyecto:
 
-1. **Clone the repository:**
+1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/yourusername/research-paper-statistic.git
-   cd research-paper-statistic
+   git clone https://github.com/Joanurp/articulo-investigacion-estadistica.git
+   cd articulo-investigacion-estadistica
