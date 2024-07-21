@@ -5,23 +5,28 @@ author: "Jose Angel Urquijo Parra"
 date: \today
 output:
   pdf_document:
-    toc: no
-    number_sections: no
-    highlight: arrow
+    toc: no               # Indice de paginas
+    #number_sections: no  # Innecesario 
+    highlight: arrow      # Theme de sintaxis
     includes:
       in_header:
-        - Config.txt
+        - Config.txt     # Configuracion de pie, encabezado y usepackge
 knitr:
   opts_chunk:
-    comment: ""
-    highlight: TRUE
-    fig.align: "center"
-    message: FALSE
-    warning: FALSE
-    tidy: FALSE
-    eval: TRUE
-    echo: TRUE
-    include: TRUE
+    comment: ""          # Comentarios de salida para el chunk
+    highlight: TRUE      # Sintaxis de Salida para el chunk
+    fig.align: "center"  # Alinea los chunk al centro
+    message: FALSE  # Evita mensajes de errores
+    warning: FALSE  # Evita advertencias
+    tidy: FALSE     # controla si el código en un chunk debe ser limpiado o reformateado
+    eval: TRUE      # controla si el código en un chunk debe ser ejecutado o no al generar
+    fig.cap: ""     #Leyenda grafica
+    echo: TRUE      # controla si el código del chunk debe ser mostrado en el documento
+    include: TRUE   # Incluye el codigo y sus resultados 
+    cache: FALSE    # Formatea la memoria
+    dpi: 300        # Numero de pixeles en resolucion para graficos
+    error: FALSE    # No interfiere la salida y genera errores
+    collapse: TRUE  # Organiza y limpia el formato de salida
 ---
 
 
@@ -29,7 +34,6 @@ knitr:
 ## Objetivo:
 
 Desarrollar un modelo estocástico para analizar y predecir la volatilidad de un activo financiero, utilizando técnicas avanzadas de procesos estocásticos y econometría.
-
 
 
 
