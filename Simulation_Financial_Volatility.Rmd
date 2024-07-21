@@ -20,7 +20,7 @@ knitr:
     warning: FALSE  # Evita advertencias
     tidy: FALSE     # controla si el código en un chunk debe ser limpiado o reformateado
     eval: TRUE      # controla si el código en un chunk debe ser ejecutado o no al generar
-    fig.cap: ""     #Leyenda grafica
+    fig.cap: ""     # Leyenda grafica
     echo: TRUE      # controla si el código del chunk debe ser mostrado en el documento
     include: TRUE   # Incluye el codigo y sus resultados 
     cache: FALSE    # Formatea la memoria
