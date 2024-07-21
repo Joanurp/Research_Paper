@@ -1,0 +1,38 @@
+---
+title: \textbf{Simulacion de Volatilidad Financiera a traves de Procesos Estocasticos}
+subtitle: Proyecto de Investigación Estadística 
+author: "Jose Angel Urquijo Parra"
+date: \today
+output:
+  pdf_document:
+    toc: no
+    number_sections: no
+    highlight: arrow
+    includes:
+      in_header:
+        - Config.txt
+knitr:
+  opts_chunk:
+    comment: ""
+    highlight: TRUE
+    fig.align: "center"
+    message: FALSE
+    warning: FALSE
+    tidy: FALSE
+    eval: TRUE
+    echo: TRUE
+    include: TRUE
+---
+
+
+
+## Objetivo:
+
+Desarrollar un modelo estocástico para analizar y predecir la volatilidad de un activo financiero, utilizando técnicas avanzadas de procesos estocásticos y econometría.
+
+
+
+
+
+
+
