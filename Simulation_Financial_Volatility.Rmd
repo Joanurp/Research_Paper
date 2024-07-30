@@ -33,8 +33,8 @@ knitr:
 
 ## Objetivo:
 
-Desarrollar un modelo estocástico para analizar y predecir la volatilidad de un activo financiero, utilizando técnicas avanzadas de procesos estocásticos y econometría.
-
+Desarrollar un modelo estocástico para analizar y predecir la volatilidad de un activo financiero, utilizando técnicas avanzadas de procesos estocásticos y econometría. 
+hola
 
 
 
