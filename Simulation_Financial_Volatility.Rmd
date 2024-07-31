@@ -3,6 +3,7 @@ title: \textbf{Simulacion de Volatilidad Financiera a traves de Procesos Estocas
 subtitle: Proyecto de Investigación Estadística 
 author: "Jose Angel Urquijo Parra"
 date: \today
+
 output:
   pdf_document:
     toc: no               # Indice de paginas
@@ -11,6 +12,17 @@ output:
     includes:
       in_header:
         - Config.txt     # Configuracion de pie, encabezado y usepackge
+      #before_body: before_body.tex (Preambulo)
+      #after_body: after_body.tex (Preambulo)
+        
+  params:
+    lang: es
+    csl: "apa.csl"
+    geometry: "margin=1in"
+    fontsize: 11pt
+    mainfont: "Times New Roman"
+    
+        
 knitr:
   opts_chunk:
     comment: ""          # Comentarios de salida para el chunk
